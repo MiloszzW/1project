@@ -1,1 +1,2 @@
 tutaj wymagania sprzetowe i programowe
+python
